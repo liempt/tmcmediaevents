@@ -74,7 +74,8 @@ $(function() {
   // --------------------------------------------- //
   $('.notify-form').ajaxChimp({
     callback: mailchimpCallback,
-    url: 'https://besaba.us10.list-manage.com/subscribe/post?u=e8d650c0df90e716c22ae4778&amp;id=cda9d4d43c'
+    // url: 'https://besaba.us10.list-manage.com/subscribe/post?u=e8d650c0df90e716c22ae4778&amp;id=cda9d4d43c'
+    url: 'https://aghpm.us20.list-manage.com/subscribe/post?u=c2cc555b260a7a4c688fae741&amp;id=2724550b38'
   });
 
   function mailchimpCallback(resp) {

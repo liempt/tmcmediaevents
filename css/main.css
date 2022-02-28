@@ -695,7 +695,7 @@ h3 small {
   display: block;
   margin-top: 0.4rem;
   margin-bottom: 0.4rem;
-  font: italic 300 1.5rem/1.2 "Libre Baskerville", serif;
+  font: italic 300 1.5rem/1.2 "Arial", serif;
   color: #aaa;
   text-transform: none;
 }
@@ -713,7 +713,7 @@ h4 {
 h4 small {
   display: block;
   margin-top: 0.6rem;
-  font: italic 300 1.4rem/1.2 "Libre Baskerville", serif;
+  font: italic 300 1.4rem/1.2 "Arial", serif;
   text-transform: none;
   letter-spacing: normal;
   color: #303030;
@@ -726,7 +726,7 @@ h4 small {
   color: #262626;
 }
 .section-title span em {
-  font-family: "Libre Baskerville", serif;
+  font-family: "Arial", serif;
   font-weight: 400;
 }
 .section-title p {
@@ -2263,7 +2263,7 @@ form .inputs-description {
 }
 .blockquote__content blockquote p {
   margin: 0 0 2.4rem 0;
-  font-family: "Libre Baskerville", serif;
+  font-family: "Arial", serif;
   font-size: 2rem;
   color: #303030;
 }
@@ -2546,7 +2546,7 @@ form .inputs-description {
   display: block;
   padding-top: 0.8rem;
   margin: 0;
-  font: normal 400 1.4rem/20px "Libre Baskerville", serif;
+  font: normal 400 1.4rem/20px "Arial", serif;
   color: rgba(255, 255, 255, 0.8);
   text-transform: none;
 }
